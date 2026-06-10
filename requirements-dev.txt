@@ -1,0 +1,8 @@
+-r requirements.txt
+pytest>=8.0.0
+pytest-cov>=4.1.0
+black>=24.0.0
+ruff>=0.3.0
+mypy>=1.8.0
+pyinstaller>=6.0.0
+pynvml>=11.5.0
